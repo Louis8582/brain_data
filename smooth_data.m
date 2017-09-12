@@ -60,5 +60,6 @@ end
 figure(2)
 hold on 
 plot(dataset.smoothA(:,6));
+plot(dataset.smoothP(:,6));
 plot(dataset.smoothC(:,6));
 % plot(dataset.smoothP(:,6));
